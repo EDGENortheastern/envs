@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Setting up environments
+
+[prod](https://zesty-licorice-77f5c2.netlify.app/)
+
+[uat](https://uat--zesty-licorice-77f5c2.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
